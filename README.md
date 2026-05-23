@@ -1,4 +1,4 @@
-# Advanced SQL Data Analytics Portfolio
+## SQL Data Analytics Portfolio
 
 Welcome to my SQL portfolio! This repository showcases a collection of advanced SQL projects focused on extracting actionable business insights, tracking revenue performance, and evaluating marketing campaign efficiency. 
 
