@@ -1,6 +1,3 @@
-# SQL-Data-Analytics-Projects
-Advanced SQL scripts for marketing analytics, revenue performance forecasting, and user behavior modeling using BigQuery.
-
 # Advanced SQL Data Analytics Portfolio
 
 Welcome to my SQL portfolio! This repository showcases a collection of advanced SQL projects focused on extracting actionable business insights, tracking revenue performance, and evaluating marketing campaign efficiency. 
