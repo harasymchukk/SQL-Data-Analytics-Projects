@@ -4,12 +4,6 @@ Welcome to my SQL portfolio! This repository showcases a collection of advanced 
 
 The scripts are optimized for handling complex relational data models (Google Analytics session data, user accounting, and marketing funnel logs) using advanced query structures.
 
-## 🚀 Key Technical Skills Showcased
-* **Advanced Analytical Functions:** `DENSE_RANK()`, `SUM() OVER(PARTITION BY...)`, `LAG/LEAD`
-* **Complex Data Structuring:** Multi-layered Common Table Expressions (CTEs), nested subqueries, and conditional aggregation (`SUM(CASE WHEN...)`)
-* **Data Consolidation:** `UNION ALL` pipelines for multi-source metric integration
-* **Business Metrics:** Share of Voice (SoV), Cumulative Revenue Run Rates, Conversion Rates (Open/Visit), and Regional Cohort Ranking
-
 ---
 
 ## 📌 Repository Structure & Projects
